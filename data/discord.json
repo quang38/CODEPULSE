@@ -1,0 +1,25 @@
+{
+  "guildId": "1354076569341263943",
+  "inviteLink": "https://discord.gg/cJQDVJ4fpa",
+  "description": "Tham gia cộng đồng CODEPULSE trên Discord để nhận hỗ trợ kỹ thuật, cập nhật mới nhất và kết nối với các developer khác!",
+  "widgetTitle": "CODEPULSE Discord",
+  "features": [
+    {
+      "icon": "💬",
+      "text": "Hỗ trợ kỹ thuật"
+    },
+    {
+      "icon": "📢",
+      "text": "Thông báo cập nhật mới nhất"
+    },
+    {
+      "icon": "🎮",
+      "text": "Chia sẻ kinh nghiệm phát triển"
+    },
+    {
+      "icon": "🤝",
+      "text": "Kết nối với cộng đồng FiveM"
+    }
+  ]
+}
+

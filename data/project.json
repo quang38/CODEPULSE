@@ -1,0 +1,75 @@
+[
+  {
+    "id": 1,
+    "title": "HỆ THỐNG NOTIFICATION CHO ESX",
+    "description": "Hệ thống thông báo SeatEM chuyên dụng cho ESX Framework. Giao diện đẹp mắt, dễ tùy chỉnh và tương thích hoàn toàn với ESX. Hỗ trợ nhiều loại thông báo khác nhau với hiệu ứng mượt mà.",
+    "tags": ["FiveM", "Lua", "ESX", "Notification", "SeatEM"]
+  },
+  {
+    "id": 2,
+    "title": "HỆ THỐNG BẢNG LƯƠNG",
+    "description": "Hệ thống quản lý bảng lương chuyên nghiệp với đầy đủ tính năng. Tự động tính lương theo job, hỗ trợ nhiều loại job khác nhau, quản lý lịch sử lương và xuất báo cáo chi tiết.",
+    "tags": ["FiveM", "Lua", "ESX", "Salary", "Job System"]
+  },
+  {
+    "id": 3,
+    "title": "JOB POLICE - HỆ THỐNG CẢNH SÁT",
+    "description": "Hệ thống job cảnh sát đầy đủ tính năng với bắt giữ, phạt tiền, tìm kiếm, khám xét, quản lý bằng lái xe. Hỗ trợ MDT, radar tốc độ, còng tay, kho vũ khí và nhiều tính năng chuyên nghiệp khác.",
+    "tags": ["FiveM", "Lua", "ESX", "QBCore", "Police", "Job System"]
+  },
+  {
+    "id": 4,
+    "title": "JOB MECHANIC - HỆ THỐNG THỢ MÁY",
+    "description": "Hệ thống job thợ máy với sửa chữa, nâng cấp, tùy chỉnh xe. Hỗ trợ nhiều loại công việc như thay lốp, sửa động cơ, sơn xe, nâng cấp hiệu năng. Giao diện đẹp mắt và dễ sử dụng.",
+    "tags": ["FiveM", "Lua", "ESX", "QBCore", "Mechanic", "Job System", "Vehicle"]
+  },
+  {
+    "id": 5,
+    "title": "JOB AMBULANCE - HỆ THỐNG Y TẾ",
+    "description": "Hệ thống job y tế với cứu thương, hồi sức, điều trị bệnh nhân. Hỗ trợ bệnh viện, phòng khám, quản lý bệnh án, thuốc men. Tích hợp với hệ thống chết sống và nhiều tính năng y tế chuyên nghiệp.",
+    "tags": ["FiveM", "Lua", "ESX", "QBCore", "Ambulance", "Medical", "Job System"]
+  },
+  {
+    "id": 6,
+    "title": "JOB TAXI - HỆ THỐNG TAXI",
+    "description": "Hệ thống job taxi với đặt xe, tính cước, quản lý tuyến đường. Hỗ trợ GPS, tính toán giá cước tự động, lịch sử chuyến đi, đánh giá khách hàng và nhiều tính năng tiện ích khác.",
+    "tags": ["FiveM", "Lua", "ESX", "QBCore", "Taxi", "Job System", "Transport"]
+  },
+  {
+    "id": 7,
+    "title": "JOB TRUCKER - HỆ THỐNG TÀI XẾ XE TẢI",
+    "description": "Hệ thống job tài xế xe tải với vận chuyển hàng hóa, nhiều loại container, tính toán quãng đường và tiền thưởng. Hỗ trợ nhiều loại xe tải, trailer và các tuyến đường khác nhau.",
+    "tags": ["FiveM", "Lua", "ESX", "QBCore", "Trucker", "Job System", "Transport"]
+  },
+  {
+    "id": 8,
+    "title": "HỆ THỐNG NGÂN HÀNG",
+    "description": "Hệ thống ngân hàng đầy đủ với tài khoản, thẻ ATM, chuyển khoản, lịch sử giao dịch. Hỗ trợ nhiều ngân hàng, lãi suất, vay vốn, đầu tư và các tính năng tài chính chuyên nghiệp.",
+    "tags": ["FiveM", "Lua", "ESX", "QBCore", "Banking", "ATM", "Financial"]
+  },
+  {
+    "id": 9,
+    "title": "HỆ THỐNG SHOP - CỬA HÀNG",
+    "description": "Hệ thống shop với nhiều loại cửa hàng như 24/7, quần áo, vũ khí, đồ ăn. Hỗ trợ giỏ hàng, thanh toán, quản lý kho hàng, khuyến mãi và nhiều tính năng thương mại điện tử.",
+    "tags": ["FiveM", "Lua", "ESX", "QBCore", "Shop", "Store", "Commerce"]
+  },
+  {
+    "id": 10,
+    "title": "HỆ THỐNG INVENTORY - KHO ĐỒ",
+    "description": "Hệ thống kho đồ hiện đại với drag & drop, tìm kiếm, sắp xếp, phân loại. Hỗ trợ nhiều loại túi đồ, container, kho chung, chuyển đồ giữa các kho và nhiều tính năng quản lý đồ đạc.",
+    "tags": ["FiveM", "Lua", "ESX", "QBCore", "Inventory", "Items", "Storage"]
+  },
+  {
+    "id": 11,
+    "title": "HỆ THỐNG NHÀ Ở - HOUSING",
+    "description": "Hệ thống nhà ở với mua bán, thuê nhà, nội thất, kho đồ riêng. Hỗ trợ nhiều loại nhà, căn hộ, biệt thự, quản lý chìa khóa, bảo vệ và nhiều tính năng bất động sản.",
+    "tags": ["FiveM", "Lua", "ESX", "QBCore", "Housing", "Property", "Real Estate"]
+  },
+  {
+    "id": 12,
+    "title": "HỆ THỐNG XE CỘ - VEHICLE SYSTEM",
+    "description": "Hệ thống quản lý xe cộ với mua bán, bảo hiểm, đăng ký, đỗ xe. Hỗ trợ nhiều loại xe, tùy chỉnh, nâng cấp, sửa chữa, nhiên liệu và nhiều tính năng quản lý phương tiện.",
+    "tags": ["FiveM", "Lua", "ESX", "QBCore", "Vehicle", "Car", "Transport"]
+  }
+]
+

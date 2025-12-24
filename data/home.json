@@ -1,0 +1,139 @@
+{
+  "hero": {
+    "badge": "CODEPULSE Development",
+    "title": "Chào mừng đến với",
+    "highlight": "CODEPULSE",
+    "description": "CODEPULSE là studio chuyên phát triển các script và resource cho FiveM với chất lượng cao, hiệu năng tối ưu và hỗ trợ tận tâm. Chúng tôi cam kết mang đến những giải pháp tốt nhất cho server FiveM của bạn với code sạch, tài liệu đầy đủ và bảo hành lâu dài.",
+    "tags": [
+      "Code chất lượng cao",
+      "Hiệu năng tối ưu",
+      "Bảo hành lâu dài",
+      "Tài liệu đầy đủ"
+    ]
+  },
+  "stats": [
+    {
+      "icon": "📦",
+      "label": "Dự án hoàn thành",
+      "id": "total-projects"
+    },
+    {
+      "icon": "🔔",
+      "label": "Thông báo mới",
+      "id": "total-notifications"
+    },
+    {
+      "icon": "💰",
+      "label": "Sale Script",
+      "id": "total-sale"
+    },
+    {
+      "icon": "⚡",
+      "label": "Trạng thái hoạt động",
+      "id": "active-status"
+    }
+  ],
+  "services": [
+    {
+      "icon": "💻",
+      "title": "Code Script Custom",
+      "description": "Phát triển script FiveM theo yêu cầu riêng của bạn. Từ hệ thống job, shop, banking đến các tính năng độc đáo. Code sạch, tối ưu hiệu năng và dễ bảo trì."
+    },
+    {
+      "icon": "🚀",
+      "title": "Tối ưu hóa hiệu năng",
+      "description": "Phân tích và tối ưu hóa script hiện có của bạn. Giảm lag, tăng FPS, cải thiện trải nghiệm người chơi. Đảm bảo server chạy mượt mà với nhiều người chơi đồng thời."
+    },
+    {
+      "icon": "🔧",
+      "title": "Fix Bug & Bảo trì",
+      "description": "Sửa lỗi nhanh chóng, bảo trì định kỳ và cập nhật script. Hỗ trợ kỹ thuật 24/7, đảm bảo server của bạn luôn hoạt động ổn định và an toàn."
+    },
+    {
+      "icon": "📚",
+      "title": "Tư vấn & Hỗ trợ",
+      "description": "Tư vấn giải pháp phù hợp cho server của bạn. Hướng dẫn cài đặt, sử dụng và tùy chỉnh. Đào tạo team của bạn về quản lý và vận hành script."
+    }
+  ],
+  "process": [
+    {
+      "number": "01",
+      "title": "Tư vấn & Báo giá",
+      "description": "Chúng tôi lắng nghe yêu cầu của bạn, phân tích và đưa ra giải pháp phù hợp nhất. Báo giá chi tiết, minh bạch và không phát sinh thêm chi phí."
+    },
+    {
+      "number": "02",
+      "title": "Phát triển & Testing",
+      "description": "Code theo đúng yêu cầu, tuân thủ best practices. Testing kỹ lưỡng trên môi trường thử nghiệm trước khi bàn giao. Đảm bảo không có bug và hoạt động ổn định."
+    },
+    {
+      "number": "03",
+      "title": "Bàn giao & Hỗ trợ",
+      "description": "Bàn giao code kèm tài liệu hướng dẫn chi tiết. Hỗ trợ cài đặt và cấu hình. Bảo hành và hỗ trợ kỹ thuật lâu dài sau khi bàn giao."
+    }
+  ],
+  "techStack": [
+    {
+      "icon": "⚙️",
+      "title": "Backend",
+      "tags": [
+        { "name": "Lua", "tech": "lua" },
+        { "name": "JavaScript", "tech": "javascript" },
+        { "name": "Node.js", "tech": "nodejs" }
+      ]
+    },
+    {
+      "icon": "🎨",
+      "title": "Frontend",
+      "tags": [
+        { "name": "HTML", "tech": "html" },
+        { "name": "CSS", "tech": "css" },
+        { "name": "JavaScript", "tech": "javascript" },
+        { "name": "NUI", "tech": "nui" }
+      ]
+    },
+    {
+      "icon": "🗄️",
+      "title": "SQL",
+      "tags": [
+        { "name": "MySQL", "tech": "mysql" },
+        { "name": "SQLite", "tech": "sqlite" }
+      ]
+    },
+    {
+      "icon": "🛠️",
+      "title": "Công cụ",
+      "tags": [
+        { "name": "Git", "tech": "git" },
+        { "name": "VS Code", "tech": "vscode" }
+      ]
+    }
+  ],
+  "features": [
+    {
+      "title": "Kinh nghiệm dày dặn",
+      "description": "Đội ngũ developer có nhiều năm kinh nghiệm phát triển FiveM, hiểu rõ về kiến trúc server và tối ưu hóa hiệu năng."
+    },
+    {
+      "title": "Code chất lượng cao",
+      "description": "Code sạch, có comment đầy đủ, tuân thủ coding standards. Dễ đọc, dễ bảo trì và mở rộng trong tương lai."
+    },
+    {
+      "title": "Hỗ trợ nhanh chóng",
+      "description": "Phản hồi nhanh trong vòng 24h. Hỗ trợ kỹ thuật 24/7 qua Discord, email và các kênh liên lạc khác."
+    },
+    {
+      "title": "Giá cả hợp lý",
+      "description": "Báo giá minh bạch, không phát sinh thêm chi phí. Nhiều gói dịch vụ phù hợp với mọi ngân sách."
+    },
+    {
+      "title": "Bảo hành lâu dài",
+      "description": "Bảo hành và hỗ trợ kỹ thuật lâu dài sau khi bàn giao. Cập nhật miễn phí trong thời gian bảo hành."
+    },
+    {
+      "title": "Tài liệu đầy đủ",
+      "description": "Mỗi dự án đều kèm theo tài liệu hướng dẫn chi tiết, ví dụ code và video tutorial để bạn dễ dàng sử dụng."
+    }
+  ]
+}
+

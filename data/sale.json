@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "title": "LB PHONE OPEN SOURCE",
+    "description": "Hệ thống điện thoại mở nguồn với đầy đủ tính năng hiện đại, giao diện đẹp mắt và dễ tùy chỉnh. Hỗ trợ nhiều tính năng như tin nhắn, cuộc gọi, ứng dụng và nhiều hơn nữa.",
+    "price": "400.000 VND",
+    "tags": ["FiveM", "Lua", "Open Source", "Phone", "ESX", "QBCore"],
+    "preview": {
+      "type": "youtube",
+      "url": "CirWSvYno70"
+    }
+  },
+  
+  {
+    "id": 2,
+    "title": "PROP VÒNG PHÉP",
+    "description": "Hệ thống prop vòng phép với nhiều tính năng độc đáo, hỗ trợ tùy chỉnh và quản lý prop dễ dàng. Giao diện đẹp mắt và hiệu năng tối ưu.",
+    "price": "200.000 VND",
+    "tags": ["FiveM", "Lua", "Prop", "ESX", "QBCore"],
+    "preview": {
+      "type": "images",
+      "urls": [
+        "https://cdn.discordapp.com/attachments/1453276568888807627/1453276569731727371/5.png?ex=694cdcc6&is=694b8b46&hm=e77debe93e8dadefd049a4af93055d3020a5c40e3521b99c0f9575ee2539fb67&",
+        "https://cdn.discordapp.com/attachments/1453276568888807627/1453276570402689177/4.png?ex=694cdcc6&is=694b8b46&hm=4438d5e9978d416b5421b504789294eacb46e8d45b02d21e76450b96988568bd&",
+        "https://cdn.discordapp.com/attachments/1453276568888807627/1453276571321499751/3.png?ex=694cdcc7&is=694b8b47&hm=073ba1416a11e06befebeb35ebffc0bbb480551bad47642fe3666b29bfe2174c&",
+        "https://cdn.discordapp.com/attachments/1453276568888807627/1453276571816300766/2.png?ex=694cdcc7&is=694b8b47&hm=e79baa2586a44d58314b0c4ca3147bc77a6ceb50080b98ca7e43937585812455&",
+        "https://cdn.discordapp.com/attachments/1453276568888807627/1453276572206501929/6.png?ex=694cdcc7&is=694b8b47&hm=05a11a9ae8251c0f7b47d9d10b5ff8c613cbb160c3a04cd8ceb490f15f2b9381&"
+       ]
+    }
+  }
+]
+

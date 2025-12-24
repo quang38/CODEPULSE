@@ -1,0 +1,13 @@
+{
+  "name": "CODEPULSE",
+  "description": "Chuyên code FiveM chất lượng cao",
+  "status": "ONLINE",
+  "version": "1.0.0",
+  "founded": "2024",
+  "workingHours": {
+    "start": 7,
+    "end": 21,
+    "timezone": "Asia/Ho_Chi_Minh"
+  }
+}
+
